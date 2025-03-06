@@ -1,0 +1,1 @@
+Plan to learn core python along with its packages like numpy, pandas, scikit learn and pytorch
