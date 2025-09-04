@@ -1,1 +1,0 @@
-Plan to learn base R along with its packages like dplyr, shiny and ggplot
