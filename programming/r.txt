@@ -1,0 +1,2 @@
+Plan to learn core R and its powerful packages dplyr, ggplot and shiny
+R is better statistical analysis language than Python
