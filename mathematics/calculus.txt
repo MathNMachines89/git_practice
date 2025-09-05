@@ -1,2 +1,3 @@
 Plan to learn differentiation and integration as well as optimization techniques
 Dates and topics
+Plan to learn matrix calculus because it's necessary to understand neural networks
