@@ -1,3 +1,4 @@
 Plan to learn core python along with its packages like numpy, pandas, scikit learn and pytorch
 Plan to learn AI framework libraries like langchain and langgraph
 Python is better general purpose and machine learning programming language than R
+Python is also better AI programming language than R
