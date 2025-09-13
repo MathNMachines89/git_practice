@@ -1,0 +1,1 @@
+Plan to learn gradio for creating out-of-the-box frontends for machine learning models
